@@ -1,0 +1,16 @@
+{
+  "name": "chrono",
+  "version": "0.0.1",
+  "description": "Internal time tracker for use with Teamwork",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unionco/chrono.git"
+  },
+  "author": "Wes Dews <wes@union.co>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unionco/chrono/issues"
+  },
+  "homepage": "https://github.com/unionco/chrono"
+}
